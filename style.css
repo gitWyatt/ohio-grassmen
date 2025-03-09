@@ -1,0 +1,105 @@
+html {
+    background-image: url("./background.png");
+    background-color: #1f2c2a;
+}
+
+body {
+    background-color: transparent;
+}
+
+
+.navbar {
+    background-image: url("./background.png");
+    background-color: #1f2c2a;
+}
+
+.navbar a {
+    color: #c0cc9f;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #586435;
+}
+
+.navbar a:active {
+    color: #586435;
+}
+
+.navbar a:visited {
+    color: #c0cc9f;
+}
+
+
+.title {
+    color: #c0cc9f;
+}
+
+
+#about {
+    background: rgba(17, 24, 23, 0.5)
+}
+
+#about * h2 {
+    color: #dce3ca;
+}
+
+#about p {
+    color: #c0cc9f;
+}
+
+
+#listen * h2 {
+    color: #dce3ca;
+}
+
+#listen p {
+    color: #c0cc9f;
+}
+
+
+#contact * h2 {
+    color: #dce3ca;
+}
+
+#contact p {
+    color: #c0cc9f;
+}
+
+
+#follow {
+    background: rgba(17, 24, 23, 0.5)
+}
+
+#follow * h2 {
+    color: #dce3ca;
+}
+
+#follow p {
+    color: #c0cc9f;
+}
+
+
+.footy * a {
+    color: #c0cc9f;
+}
+
+.footy * a:hover {
+    color: #586435;
+}
+
+.footy * a:visited {
+    color: #c0cc9f;
+}
+
+.footy * a:active {
+    color: #586435;
+}
+
+footer {
+    background: rgba(17, 24, 23, 0.5)
+}
+
+footer p {   
+    color: #c0cc9f;
+}
