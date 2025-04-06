@@ -26,17 +26,12 @@ body {
     color: #586435;
 }
 
-.navbar a:visited {
-    color: #c0cc9f;
-}
-
 
 .title {
     color: #c0cc9f;
 }
 
-
-#about {
+.opaque {
     background: rgba(17, 24, 23, 0.5)
 }
 
@@ -86,10 +81,6 @@ body {
 
 .footy * a:hover {
     color: #586435;
-}
-
-.footy * a:visited {
-    color: #c0cc9f;
 }
 
 .footy * a:active {
