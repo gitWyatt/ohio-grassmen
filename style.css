@@ -26,6 +26,9 @@ body {
     color: #586435;
 }
 
+#bold {
+    font-weight: 400;
+}
 
 .title {
     color: #c0cc9f;
